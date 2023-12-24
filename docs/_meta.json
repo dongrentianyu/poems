@@ -1,0 +1,21 @@
+[
+  {
+    "text": "Guide",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "Hello World",
+    "link": "/hello/",
+    "activeMatch": "/hello/"
+  },
+  {
+    "text": "2021",
+    "link": "/2021/",
+    "activeMatch": "/2021/"
+  },
+  {
+    "text": "API",
+    "link": "https://rspress.dev/api/index.html"
+  }
+]
