@@ -1,0 +1,16 @@
+/* styles/index.css */
+.my-4 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.leading-7 {
+  font-size: 1.25rem;
+}
+.text-2xl {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+.text-3xl {
+  font-size: 2.875rem;
+  line-height: 5.25rem;
+}

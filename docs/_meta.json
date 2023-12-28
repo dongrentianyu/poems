@@ -1,21 +1,32 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
+    "text": "二〇一九",
+    "link": "/2019/",
+    "activeMatch": "/2019/",
+    "position": "left"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "二〇二〇",
+    "link": "/2020/",
+    "activeMatch": "/2020/",
+    "position": "left"
   },
   {
-    "text": "2021",
+    "text": "二〇二一",
     "link": "/2021/",
-    "activeMatch": "/2021/"
+    "activeMatch": "/2021/",
+    "position": "left"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "二〇二二",
+    "link": "/2022/",
+    "activeMatch": "/2022/",
+    "position": "left"
+  },
+  {
+    "text": "二〇二三",
+    "link": "/2023/",
+    "activeMatch": "/2023/",
+    "position": "left"
   }
 ]
