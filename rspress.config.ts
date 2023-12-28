@@ -2,6 +2,7 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
+  base: "/poems",
   globalStyles: path.join(__dirname, './src/styles/styles.css'),
   root: path.join(__dirname, 'docs'),
   title: 'Poems',
