@@ -6,7 +6,7 @@ export default defineConfig({
   globalStyles: path.join(__dirname, './src/styles/styles.css'),
   root: path.join(__dirname, 'docs'),
   title: 'Poems',
-  description: 'Poems for life',
+  description: '爱是刻舟求剑',
   icon: '/author.png',
   logo: {
     light: '/author.png',
