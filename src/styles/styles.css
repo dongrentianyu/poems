@@ -1,4 +1,8 @@
 /* styles/index.css */
+.rspress-poem {
+  text-align: center;
+  white-space: pre-line;
+}
 .my-4 {
   margin-top: 2rem;
   margin-bottom: 2rem;
